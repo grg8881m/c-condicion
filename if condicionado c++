@@ -1,0 +1,20 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		int vidadejugador = 1000;
+		
+		if (vidadejugador > 0){
+			
+			Console.Write("El jugador esta vivo.");
+		
+		}else{
+		
+			Console.Write("El jugador esta muerto.");
+		}
+		
+		Console.WriteLine("    Tu!, si Tu! Milton Giovanni estas en la voluntad de Dios buena, agradable y perfecta!");
+	}
+}
